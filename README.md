@@ -63,4 +63,4 @@ The basis for this app, and the Markov algorithm, were taken from [Tom Meagher's
 
 Most of the app itself has been rewritten by myself, but the algorithm and basic idea stem from there.
 
-You can find me at [@ViThePony](http://twitter.com/ViThePony) if you have any questions regarding my implementation, or any suggestions for future features.
+You can find me at [@ViTheDeer](http://twitter.com/ViTheDeer) if you have any questions regarding my implementation, or any suggestions for future features.

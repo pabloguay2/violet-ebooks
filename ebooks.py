@@ -147,7 +147,7 @@ def generate_reply_tweets(source_tweets, reply_tweets = []) :
 	for tweet in reply_tweets:
 		if re.search('#wordcloud',tweet.text ):
 			try:
-				shape = re.search(u'pony|star|heart|snowflake|deer|cat|fox|bird|fairy|xmas|chrysalis|bunny|yuri|weepingangel|wolf|cake',tweet.text).group(0)
+				shape = re.search(u'a shape that exists as a shape_mask.jpg file in your app folder',tweet.text).group(0)
 			except:
 				shape = None
 				
