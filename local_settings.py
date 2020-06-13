@@ -4,14 +4,14 @@ Local Settings for a heroku_ebooks account. #fill in the name of the account you
 '''
 
 #configuration
-DEBUG = True #Set this to False to start Tweeting live
+DEBUG = False #Set this to False to start Tweeting live
 REPLIES = True
 WORDCLOUD = True
 
 # Tweet lengths - tweak to taste.
 LONGTWEET = 60
 SHORTTWEET = 10
-MAXTWEETLENGTH = 140
+MAXTWEETLENGTH = 240
 TWEETFREQUENCY = .2
 
 DEEP = 50
